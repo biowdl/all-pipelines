@@ -1,0 +1,42 @@
+[submodule "pipeline-template"]
+	path = pipeline-template
+	url = https://github.com/biowdl/pipeline-template.git
+[submodule "germline-DNA"]
+	path = germline-DNA
+	url = https://github.com/biowdl/germline-DNA.git
+[submodule "aligning"]
+	path = aligning
+	url = https://github.com/biowdl/aligning.git
+[submodule "RNA-seq"]
+	path = RNA-seq
+	url = https://github.com/biowdl/RNA-seq.git
+[submodule "expression-quantification"]
+	path = expression-quantification
+	url = https://github.com/biowdl/expression-quantification
+[submodule "BamMetrics"]
+	path = BamMetrics
+	url = https://github.com/biowdl/BamMetrics.git
+[submodule "QC"]
+	path = QC
+	url = https://github.com/biowdl/QC.git
+[submodule "ChIP-seq"]
+	path = ChIP-seq
+	url = https://github.com/biowdl/ChIP-seq.git
+[submodule "jointgenotyping"]
+	path = jointgenotyping
+	url = https://github.com/biowdl/jointgenotyping.git
+[submodule "gatk-preprocess"]
+	path = gatk-preprocess
+	url = https://github.com/biowdl/gatk-preprocess.git
+[submodule "bam-to-gvcf"]
+	path = bam-to-gvcf
+	url = https://github.com/biowdl/bam-to-gvcf.git
+[submodule "gams"]
+	path = gams
+	url = https://github.com/biowdl/gams.git
+[submodule "ReAssembly"]
+	path = ReAssembly
+	url = https://github.com/biowdl/ReAssembly.git
+[submodule "virus-assembly"]
+	path = virus-assembly
+	url = https://github.com/biowdl/virus-assembly.git
