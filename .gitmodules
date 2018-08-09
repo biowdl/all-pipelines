@@ -40,3 +40,6 @@
 [submodule "virus-assembly"]
 	path = virus-assembly
 	url = https://github.com/biowdl/virus-assembly.git
+[submodule "somatic-variantcalling"]
+	path = somatic-variantcalling
+	url = https://github.com/biowdl/somatic-variantcalling.git
