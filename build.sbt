@@ -12,7 +12,7 @@ developers += Developer(id = "ffinfo",
                         email = "pjrvanthof@gmail.com",
                         url = url("https://github.com/ffinfo"))
 
-lazy val root = (project in file("."))
+lazy val root = project in file(".")
 
 lazy val Aligning = project in file("aligning")
 lazy val BamMetrics = project in file("BamMetrics")
