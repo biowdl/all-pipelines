@@ -49,3 +49,6 @@
 [submodule "rna-coding-potential"]
 	path = rna-coding-potential
 	url = https://github.com/biowdl/rna-coding-potential.git
+[submodule "tasks"]
+	path = tasks
+	url = https://github.com/biowdl/tasks.git
