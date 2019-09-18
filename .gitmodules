@@ -1,6 +1,3 @@
-[submodule "pipeline-template"]
-	path = pipeline-template
-	url = https://github.com/biowdl/pipeline-template.git
 [submodule "germline-DNA"]
 	path = germline-DNA
 	url = https://github.com/biowdl/germline-DNA.git
@@ -19,9 +16,6 @@
 [submodule "QC"]
 	path = QC
 	url = https://github.com/biowdl/QC.git
-[submodule "ChIP-seq"]
-	path = ChIP-seq
-	url = https://github.com/biowdl/ChIP-seq.git
 [submodule "jointgenotyping"]
 	path = jointgenotyping
 	url = https://github.com/biowdl/jointgenotyping.git
@@ -40,6 +34,3 @@
 [submodule "small-rna"]
 	path = small-rna
 	url = https://github.com/biowdl/small-rna.git
-[submodule "cnv-calling"]
-	path = cnv-calling
-	url = https://github.com/biowdl/cnv-calling.git
