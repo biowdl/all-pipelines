@@ -1,9 +1,6 @@
 [submodule "germline-DNA"]
 	path = germline-DNA
 	url = https://github.com/biowdl/germline-DNA.git
-[submodule "aligning"]
-	path = aligning
-	url = https://github.com/biowdl/aligning.git
 [submodule "RNA-seq"]
 	path = RNA-seq
 	url = https://github.com/biowdl/RNA-seq.git
@@ -16,15 +13,9 @@
 [submodule "QC"]
 	path = QC
 	url = https://github.com/biowdl/QC.git
-[submodule "jointgenotyping"]
-	path = jointgenotyping
-	url = https://github.com/biowdl/jointgenotyping.git
 [submodule "gatk-preprocess"]
 	path = gatk-preprocess
 	url = https://github.com/biowdl/gatk-preprocess.git
-[submodule "bam-to-gvcf"]
-	path = bam-to-gvcf
-	url = https://github.com/biowdl/bam-to-gvcf.git
 [submodule "somatic-variantcalling"]
 	path = somatic-variantcalling
 	url = https://github.com/biowdl/somatic-variantcalling.git
@@ -34,3 +25,9 @@
 [submodule "small-rna"]
 	path = small-rna
 	url = https://github.com/biowdl/small-rna.git
+[submodule "talon-wdl"]
+	path = talon-wdl
+	url = https://github.com/biowdl/talon-wdl.git
+[submodule "gatk-variantcalling"]
+	path = gatk-variantcalling
+	url = https://github.com/biowdl/gatk-variantcalling.git
