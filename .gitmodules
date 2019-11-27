@@ -31,3 +31,6 @@
 [submodule "gatk-variantcalling"]
 	path = gatk-variantcalling
 	url = https://github.com/biowdl/gatk-variantcalling.git
+[submodule "tasks"]
+	path = tasks
+	url = https://github.com/biowdl/tasks.git
