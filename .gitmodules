@@ -19,9 +19,6 @@
 [submodule "somatic-variantcalling"]
 	path = somatic-variantcalling
 	url = https://github.com/biowdl/somatic-variantcalling.git
-[submodule "rna-coding-potential"]
-	path = rna-coding-potential
-	url = https://github.com/biowdl/rna-coding-potential.git
 [submodule "small-rna"]
 	path = small-rna
 	url = https://github.com/biowdl/small-rna.git
